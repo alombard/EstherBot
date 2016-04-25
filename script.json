@@ -1,13 +1,13 @@
 {
     "HELLO": "Hey, I'm so glad you are awake.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "Amazing": "Awesome Possum!  I know eh?",
+    "AMAZING": "Awesome Possum!  I know eh?",
+    "RUNNING TONIGHT": "Sigh.  OK.  Running is hard.",
+    "RUN": "OK - but I'm not liking this.",
+    "RUN?": "Sigh - yes.",
+    "PARTY": "Will there be beer?!",
+    "YES": "Right on.",
+    "NO": "We don't have to agree on everything",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Brett Bot is back.",
-    "Running tonight?": "Sigh.  OK.  Running is hard.",
-    "Run": "OK - but I'm not liking this.",
-    "Run?": "Sigh - yes.",
-    "Party": "Will there be beer?!",
-    "Yes": "Right on.",
-    "No": "We don't have to agree on everything"
 }
